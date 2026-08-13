@@ -26,8 +26,5 @@ Hi there, I'm Quoc Minh. I am a **Backend Engineer** focused on designing scalab
 
 ![](https://github-readme-stats-five-eta-44.vercel.app/api?username=minhvhq&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=minhvhq&theme=tokyonight&hide_border=false)](https://git.io/streak-stats)
-
-![](https://github-readme-stats-five-eta-44.vercel.app/api/top-langs/?username=minhvhq&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+![](https://streak-stats.demolab.com/?user=minhvhq&theme=tokyonight&hide_border=false)
 </div>
